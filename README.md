@@ -3,7 +3,7 @@ This repository contains the code and data for conducting a comprehensive explor
 
 # Overview
 
-#The main objectives of this project are:
+The main objectives of this project are:
 
 - Perform EDA to understand the characteristics of the dataset and extract valuable insights for house price prediction.
 - Utilize Python libraries including Pandas, NumPy, Matplotlib, and Seaborn for efficient data preprocessing and visualization.
