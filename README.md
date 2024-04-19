@@ -10,7 +10,9 @@ This repository contains the code and data for conducting a comprehensive explor
 - Employ machine learning models, such as Lasso Regression from the Scikit-learn library, for predictive analysis.
 
 # Dataset
-The dataset used in this project consists of various features related to house prices.
+The dataset used in this project is a Kaggle Dataset which consists of various features related to house prices. The dataset is derived from two csv files:
+- test.csv
+- train.csv
 
 # Files
 House Prices: Advanced Regression Techniques.ipynb: Jupyter Notebook containing the code for exploratory data analysis.
