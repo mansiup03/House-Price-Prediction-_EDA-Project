@@ -1,4 +1,3 @@
-# House-Price-Prediction-_EDA-Project
 # House Price Prediction EDA and Modeling
 This repository contains the code and data for conducting a comprehensive exploratory data analysis (EDA) on a house price dataset and building a predictive model using advanced techniques in data cleaning, transformation, and visualization.
 
